@@ -1,0 +1,2322 @@
+[
+    {
+        "id": "Q212781",
+        "name": "Spaghetti Western"
+    },
+    {
+        "id": "Q223770",
+        "name": "B movie"
+    },
+    {
+        "id": "Q226730",
+        "name": "silent film"
+    },
+    {
+        "id": "Q628165",
+        "name": "road movie"
+    },
+    {
+        "id": "Q202866",
+        "name": "animated film"
+    },
+    {
+        "id": "Q731194",
+        "name": "yakuza film"
+    },
+    {
+        "id": "Q1092404",
+        "name": "Q1092404"
+    },
+    {
+        "id": "Q1278107",
+        "name": "Eastern"
+    },
+    {
+        "id": "Q959790",
+        "name": "crime film"
+    },
+    {
+        "id": "Q1033891",
+        "name": "martial arts film"
+    },
+    {
+        "id": "Q1065444",
+        "name": "kaiju"
+    },
+    {
+        "id": "Q93204",
+        "name": "documentary film"
+    },
+    {
+        "id": "Q430525",
+        "name": "concert film"
+    },
+    {
+        "id": "Q304538",
+        "name": "Heimatfilm"
+    },
+    {
+        "id": "Q185529",
+        "name": "pornographic film"
+    },
+    {
+        "id": "Q336144",
+        "name": "anthology film"
+    },
+    {
+        "id": "Q455620",
+        "name": "amateur film"
+    },
+    {
+        "id": "Q735478",
+        "name": "newsreel"
+    },
+    {
+        "id": "Q599558",
+        "name": "erotic film"
+    },
+    {
+        "id": "Q790192",
+        "name": "experimental film"
+    },
+    {
+        "id": "Q645928",
+        "name": "biographical film"
+    },
+    {
+        "id": "Q130232",
+        "name": "drama film"
+    },
+    {
+        "id": "Q200092",
+        "name": "horror film"
+    },
+    {
+        "id": "Q1135802",
+        "name": "art film"
+    },
+    {
+        "id": "Q84041",
+        "name": "Bavarian porn"
+    },
+    {
+        "id": "Q157394",
+        "name": "fantasy film"
+    },
+    {
+        "id": "Q842256",
+        "name": "musical film"
+    },
+    {
+        "id": "Q853630",
+        "name": "slasher film"
+    },
+    {
+        "id": "Q629917",
+        "name": "Jidaigeki"
+    },
+    {
+        "id": "Q1117103",
+        "name": "Z movie"
+    },
+    {
+        "id": "Q1323308",
+        "name": "direct cinema"
+    },
+    {
+        "id": "Q1332055",
+        "name": "giallo"
+    },
+    {
+        "id": "Q172980",
+        "name": "Western film"
+    },
+    {
+        "id": "Q93196",
+        "name": "Bollywood"
+    },
+    {
+        "id": "Q157443",
+        "name": "comedy film"
+    },
+    {
+        "id": "Q622370",
+        "name": "docudrama"
+    },
+    {
+        "id": "Q457832",
+        "name": "stoner film"
+    },
+    {
+        "id": "Q542475",
+        "name": "costume drama"
+    },
+    {
+        "id": "Q643684",
+        "name": "jukebox musical"
+    },
+    {
+        "id": "Q674926",
+        "name": "vlog"
+    },
+    {
+        "id": "Q848512",
+        "name": "sound film"
+    },
+    {
+        "id": "Q964061",
+        "name": "Wire fu"
+    },
+    {
+        "id": "Q1054574",
+        "name": "romance film"
+    },
+    {
+        "id": "Q1153173",
+        "name": "educational entertainment"
+    },
+    {
+        "id": "Q1200678",
+        "name": "mystery film"
+    },
+    {
+        "id": "Q1339864",
+        "name": "sport film"
+    },
+    {
+        "id": "Q222639",
+        "name": "swashbuckler film"
+    },
+    {
+        "id": "Q596138",
+        "name": "educational film"
+    },
+    {
+        "id": "Q663106",
+        "name": "buddy film"
+    },
+    {
+        "id": "Q682010",
+        "name": "video art"
+    },
+    {
+        "id": "Q624771",
+        "name": "slapstick"
+    },
+    {
+        "id": "Q819652",
+        "name": "mountain film"
+    },
+    {
+        "id": "Q882006",
+        "name": "rubble film"
+    },
+    {
+        "id": "Q1029920",
+        "name": "industrial film"
+    },
+    {
+        "id": "Q1190502",
+        "name": "surrealist cinema"
+    },
+    {
+        "id": "Q169672",
+        "name": "samurai cinema"
+    },
+    {
+        "id": "Q319221",
+        "name": "adventure film"
+    },
+    {
+        "id": "Q472637",
+        "name": "docufiction film"
+    },
+    {
+        "id": "Q491158",
+        "name": "Revisionist Western"
+    },
+    {
+        "id": "Q638364",
+        "name": "midnight movie"
+    },
+    {
+        "id": "Q759779",
+        "name": "Enlightenment film"
+    },
+    {
+        "id": "Q895583",
+        "name": "boxing film"
+    },
+    {
+        "id": "Q909586",
+        "name": "splatter film"
+    },
+    {
+        "id": "Q1271310",
+        "name": "Kulturfilm"
+    },
+    {
+        "id": "Q185867",
+        "name": "film noir"
+    },
+    {
+        "id": "Q248583",
+        "name": "screwball comedy film"
+    },
+    {
+        "id": "Q268854",
+        "name": "Red Western"
+    },
+    {
+        "id": "Q459290",
+        "name": "independent film"
+    },
+    {
+        "id": "Q477371",
+        "name": "kitchen sink realism"
+    },
+    {
+        "id": "Q580013",
+        "name": "Bruceploitation"
+    },
+    {
+        "id": "Q586250",
+        "name": "prison film"
+    },
+    {
+        "id": "Q622548",
+        "name": "parody film"
+    },
+    {
+        "id": "Q644437",
+        "name": "snuff film"
+    },
+    {
+        "id": "Q652256",
+        "name": "epic film"
+    },
+    {
+        "id": "Q798555",
+        "name": "backwoods film"
+    },
+    {
+        "id": "Q849666",
+        "name": "brickfilm"
+    },
+    {
+        "id": "Q883179",
+        "name": "blaxploitation film"
+    },
+    {
+        "id": "Q1146335",
+        "name": "teen film"
+    },
+    {
+        "id": "Q1107",
+        "name": "anime"
+    },
+    {
+        "id": "Q188473",
+        "name": "action film"
+    },
+    {
+        "id": "Q275934",
+        "name": "tokusatsu"
+    },
+    {
+        "id": "Q24862",
+        "name": "short film"
+    },
+    {
+        "id": "Q459435",
+        "name": "mockumentary"
+    },
+    {
+        "id": "Q496523",
+        "name": "heist film"
+    },
+    {
+        "id": "Q535518",
+        "name": "Nazi exploitation"
+    },
+    {
+        "id": "Q622310",
+        "name": "heroic bloodshed"
+    },
+    {
+        "id": "Q846544",
+        "name": "disaster film"
+    },
+    {
+        "id": "Q1067324",
+        "name": "exploitation film"
+    },
+    {
+        "id": "Q1092361",
+        "name": "Turksploitation"
+    },
+    {
+        "id": "Q1194365",
+        "name": "pink film"
+    },
+    {
+        "id": "Q180902",
+        "name": "socialist realism"
+    },
+    {
+        "id": "Q369747",
+        "name": "war film"
+    },
+    {
+        "id": "Q370630",
+        "name": "web film"
+    },
+    {
+        "id": "Q471839",
+        "name": "science fiction film"
+    },
+    {
+        "id": "Q583768",
+        "name": "women in prison film"
+    },
+    {
+        "id": "Q1092621",
+        "name": "cinéma vérité"
+    },
+    {
+        "id": "Q1108032",
+        "name": "mumblecore"
+    },
+    {
+        "id": "Q1115187",
+        "name": "Commedia all'italiana"
+    },
+    {
+        "id": "Q25975",
+        "name": "Let's Play"
+    },
+    {
+        "id": "Q332564",
+        "name": "abstract animation film"
+    },
+    {
+        "id": "Q1523808",
+        "name": "Q1523808"
+    },
+    {
+        "id": "Q1642807",
+        "name": "Q1642807"
+    },
+    {
+        "id": "Q1692392",
+        "name": "Q1692392"
+    },
+    {
+        "id": "Q1480924",
+        "name": "cabview film"
+    },
+    {
+        "id": "Q1502766",
+        "name": "Kammerspielfilm"
+    },
+    {
+        "id": "Q1548170",
+        "name": "musical comedy"
+    },
+    {
+        "id": "Q2290628",
+        "name": "Q2290628"
+    },
+    {
+        "id": "Q2294552",
+        "name": "Q2294552"
+    },
+    {
+        "id": "Q1919632",
+        "name": "melodrama"
+    },
+    {
+        "id": "Q1941707",
+        "name": "mockbuster"
+    },
+    {
+        "id": "Q2075808",
+        "name": "chick flick"
+    },
+    {
+        "id": "Q1800833",
+        "name": "rockumentary"
+    },
+    {
+        "id": "Q2973167",
+        "name": "Q2973167"
+    },
+    {
+        "id": "Q2292320",
+        "name": "sexploitation film"
+    },
+    {
+        "id": "Q2600159",
+        "name": "Nederhorror"
+    },
+    {
+        "id": "Q2973154",
+        "name": "Asian horror film"
+    },
+    {
+        "id": "Q3072039",
+        "name": "trial film"
+    },
+    {
+        "id": "Q1390819",
+        "name": "reunion"
+    },
+    {
+        "id": "Q1377546",
+        "name": "nunsploitation"
+    },
+    {
+        "id": "Q1535153",
+        "name": "superhero film"
+    },
+    {
+        "id": "Q2275499",
+        "name": "sex film"
+    },
+    {
+        "id": "Q2096633",
+        "name": "pirate film"
+    },
+    {
+        "id": "Q2137852",
+        "name": "vampire film"
+    },
+    {
+        "id": "Q2642760",
+        "name": "vigilante film"
+    },
+    {
+        "id": "Q3066315",
+        "name": "fan edit"
+    },
+    {
+        "id": "Q3072049",
+        "name": "zombie film"
+    },
+    {
+        "id": "Q1352102",
+        "name": "Free Cinema"
+    },
+    {
+        "id": "Q1342372",
+        "name": "monster film"
+    },
+    {
+        "id": "Q1504407",
+        "name": "Late Western"
+    },
+    {
+        "id": "Q1538137",
+        "name": "gore"
+    },
+    {
+        "id": "Q2101714",
+        "name": "police film"
+    },
+    {
+        "id": "Q2125170",
+        "name": "race film"
+    },
+    {
+        "id": "Q2445146",
+        "name": "torture horror film"
+    },
+    {
+        "id": "Q2973149",
+        "name": "colonial cinema"
+    },
+    {
+        "id": "Q2973196",
+        "name": "narrative cinema"
+    },
+    {
+        "id": "Q2973181",
+        "name": "speculative/fantastic fiction film"
+    },
+    {
+        "id": "Q2991535",
+        "name": "comedy of intrigue"
+    },
+    {
+        "id": "Q3028680",
+        "name": "Masala film"
+    },
+    {
+        "id": "Q3072024",
+        "name": "autobiographical film"
+    },
+    {
+        "id": "Q1669985",
+        "name": "Wiener Film"
+    },
+    {
+        "id": "Q2002987",
+        "name": "Novo Cinema"
+    },
+    {
+        "id": "Q2254193",
+        "name": "rape and revenge film"
+    },
+    {
+        "id": "Q2331945",
+        "name": "high school comedy"
+    },
+    {
+        "id": "Q2742446",
+        "name": "Cinéma pur"
+    },
+    {
+        "id": "Q2916932",
+        "name": "Gendai-geki"
+    },
+    {
+        "id": "Q2973158",
+        "name": "genre movie"
+    },
+    {
+        "id": "Q3072043",
+        "name": "dance film"
+    },
+    {
+        "id": "Q2670855",
+        "name": "travel documentary"
+    },
+    {
+        "id": "Q1371394",
+        "name": "ethnographic film"
+    },
+    {
+        "id": "Q1456178",
+        "name": "Prussian film"
+    },
+    {
+        "id": "Q1723850",
+        "name": "cannibal film"
+    },
+    {
+        "id": "Q1957385",
+        "name": "cinematic fairy tale"
+    },
+    {
+        "id": "Q2007999",
+        "name": "underground film"
+    },
+    {
+        "id": "Q2096046",
+        "name": "city symphony film"
+    },
+    {
+        "id": "Q2143665",
+        "name": "children's film"
+    },
+    {
+        "id": "Q2297927",
+        "name": "spy film"
+    },
+    {
+        "id": "Q2301591",
+        "name": "fan film"
+    },
+    {
+        "id": "Q2305470",
+        "name": "social drama"
+    },
+    {
+        "id": "Q2484376",
+        "name": "thriller film"
+    },
+    {
+        "id": "Q2907760",
+        "name": "corporate video"
+    },
+    {
+        "id": "Q2973217",
+        "name": "structural film"
+    },
+    {
+        "id": "Q2991565",
+        "name": "Commedia sexy all'italiana"
+    },
+    {
+        "id": "Q1412580",
+        "name": "Pinky Violence"
+    },
+    {
+        "id": "Q1451709",
+        "name": "women's cinema"
+    },
+    {
+        "id": "Q1464369",
+        "name": "behind-the-scenes"
+    },
+    {
+        "id": "Q1474387",
+        "name": "mondo film"
+    },
+    {
+        "id": "Q1696148",
+        "name": "animal horror film"
+    },
+    {
+        "id": "Q1760864",
+        "name": "nature documentary"
+    },
+    {
+        "id": "Q1776156",
+        "name": "girls with guns"
+    },
+    {
+        "id": "Q1788980",
+        "name": "crime-comedy film"
+    },
+    {
+        "id": "Q2273331",
+        "name": "serial killer film"
+    },
+    {
+        "id": "Q2678111",
+        "name": "action comedy film"
+    },
+    {
+        "id": "Q2973201",
+        "name": "political film"
+    },
+    {
+        "id": "Q2991560",
+        "name": "sex comedy"
+    },
+    {
+        "id": "Q1615638",
+        "name": "submarine film"
+    },
+    {
+        "id": "Q1621121",
+        "name": "Hitchcockian film"
+    },
+    {
+        "id": "Q1361932",
+        "name": "family film"
+    },
+    {
+        "id": "Q1740789",
+        "name": "poliziotteschi"
+    },
+    {
+        "id": "Q1747837",
+        "name": "zombie comedy"
+    },
+    {
+        "id": "Q1935609",
+        "name": "propaganda film"
+    },
+    {
+        "id": "Q2084909",
+        "name": "phantom ride"
+    },
+    {
+        "id": "Q2184615",
+        "name": "Symphonic Cinema"
+    },
+    {
+        "id": "Q2263701",
+        "name": "Sceneggiata"
+    },
+    {
+        "id": "Q3059309",
+        "name": "ethnofiction"
+    },
+    {
+        "id": "Q3076696",
+        "name": "association football film"
+    },
+    {
+        "id": "Q1341051",
+        "name": "post-apocalyptic film"
+    },
+    {
+        "id": "Q2000178",
+        "name": "Telefoni Bianchi"
+    },
+    {
+        "id": "Q2354823",
+        "name": "street film"
+    },
+    {
+        "id": "Q2421031",
+        "name": "neo-noir"
+    },
+    {
+        "id": "Q2843083",
+        "name": "americana"
+    },
+    {
+        "id": "Q2928728",
+        "name": "business thriller"
+    },
+    {
+        "id": "Q3072031",
+        "name": "hyperlink cinema"
+    },
+    {
+        "id": "Q3072042",
+        "name": "kung fu film"
+    },
+    {
+        "id": "Q1433443",
+        "name": "sword-and-sandal film"
+    },
+    {
+        "id": "Q1550219",
+        "name": "mo lei tau"
+    },
+    {
+        "id": "Q1387397",
+        "name": "proletarian film"
+    },
+    {
+        "id": "Q2738678",
+        "name": "Jordaanfilm"
+    },
+    {
+        "id": "Q3072046",
+        "name": "fustanella film"
+    },
+    {
+        "id": "Q2145099",
+        "name": "sex report film"
+    },
+    {
+        "id": "Q2724311",
+        "name": "new queer cinema"
+    },
+    {
+        "id": "Q3186884",
+        "name": "Q3186884"
+    },
+    {
+        "id": "Q3684597",
+        "name": "Q3684597"
+    },
+    {
+        "id": "Q3745424",
+        "name": "Q3745424"
+    },
+    {
+        "id": "Q3272147",
+        "name": "found footage"
+    },
+    {
+        "id": "Q3854285",
+        "name": "Q3854285"
+    },
+    {
+        "id": "Q3964134",
+        "name": "Q3964134"
+    },
+    {
+        "id": "Q3442060",
+        "name": "partisan film"
+    },
+    {
+        "id": "Q3745429",
+        "name": "ninja film"
+    },
+    {
+        "id": "Q4075563",
+        "name": "outlaw biker film"
+    },
+    {
+        "id": "Q4461646",
+        "name": "travelogue"
+    },
+    {
+        "id": "Q4797626",
+        "name": "arthouse action film"
+    },
+    {
+        "id": "Q5442753",
+        "name": "female buddy film"
+    },
+    {
+        "id": "Q5449011",
+        "name": "film gris"
+    },
+    {
+        "id": "Q5551875",
+        "name": "German underground horror"
+    },
+    {
+        "id": "Q5583970",
+        "name": "Goona-goona epic"
+    },
+    {
+        "id": "Q5804445",
+        "name": "El Destape"
+    },
+    {
+        "id": "Q5905136",
+        "name": "horror of personality"
+    },
+    {
+        "id": "Q6926334",
+        "name": "Mouth of Garbage film"
+    },
+    {
+        "id": "Q6943011",
+        "name": "Muslim social"
+    },
+    {
+        "id": "Q3352071",
+        "name": "omnibus"
+    },
+    {
+        "id": "Q3990885",
+        "name": "religious thriller"
+    },
+    {
+        "id": "Q4839755",
+        "name": "backstage musical"
+    },
+    {
+        "id": "Q5413472",
+        "name": "European art cinema"
+    },
+    {
+        "id": "Q5461696",
+        "name": "Florida Western"
+    },
+    {
+        "id": "Q5712461",
+        "name": "Filmfarsi"
+    },
+    {
+        "id": "Q5769572",
+        "name": "Mexican sex comedy"
+    },
+    {
+        "id": "Q5897543",
+        "name": "hood film"
+    },
+    {
+        "id": "Q6142791",
+        "name": "Shinpa"
+    },
+    {
+        "id": "Q6696549",
+        "name": "Lucha film"
+    },
+    {
+        "id": "Q6804274",
+        "name": "Australian Western"
+    },
+    {
+        "id": "Q7133952",
+        "name": "paracinema"
+    },
+    {
+        "id": "Q3778115",
+        "name": "gross out"
+    },
+    {
+        "id": "Q3786423",
+        "name": "home invasion"
+    },
+    {
+        "id": "Q4453959",
+        "name": "television ballet"
+    },
+    {
+        "id": "Q4765076",
+        "name": "animated documentary"
+    },
+    {
+        "id": "Q4984974",
+        "name": "buddy cop film"
+    },
+    {
+        "id": "Q5151497",
+        "name": "comedy of remarriage"
+    },
+    {
+        "id": "Q5697292",
+        "name": "antigenre"
+    },
+    {
+        "id": "Q5905668",
+        "name": "horse opera"
+    },
+    {
+        "id": "Q3331891",
+        "name": "mythopoeia"
+    },
+    {
+        "id": "Q3396019",
+        "name": "remodernist film"
+    },
+    {
+        "id": "Q3461143",
+        "name": "BDSM film"
+    },
+    {
+        "id": "Q3492614",
+        "name": "space fantasy"
+    },
+    {
+        "id": "Q3677202",
+        "name": "eurospy film"
+    },
+    {
+        "id": "Q3990887",
+        "name": "medical thriller"
+    },
+    {
+        "id": "Q4373044",
+        "name": "cartoon pornography"
+    },
+    {
+        "id": "Q4930081",
+        "name": "blue film"
+    },
+    {
+        "id": "Q4950139",
+        "name": "Bourekas film"
+    },
+    {
+        "id": "Q5145881",
+        "name": "collage film"
+    },
+    {
+        "id": "Q5769663",
+        "name": "gothic film"
+    },
+    {
+        "id": "Q5778924",
+        "name": "black comedy film"
+    },
+    {
+        "id": "Q5905132",
+        "name": "horror of demonic"
+    },
+    {
+        "id": "Q6729489",
+        "name": "mafia comedy film"
+    },
+    {
+        "id": "Q6821792",
+        "name": "message picture"
+    },
+    {
+        "id": "Q3355734",
+        "name": "metacinema"
+    },
+    {
+        "id": "Q3964495",
+        "name": "Somaliwood"
+    },
+    {
+        "id": "Q4044177",
+        "name": "Mexploitation"
+    },
+    {
+        "id": "Q4677832",
+        "name": "actuality film"
+    },
+    {
+        "id": "Q5070847",
+        "name": "Chanchada"
+    },
+    {
+        "id": "Q5156753",
+        "name": "composite film"
+    },
+    {
+        "id": "Q5400070",
+        "name": "cabaret film"
+    },
+    {
+        "id": "Q5622029",
+        "name": "Guy-cry film"
+    },
+    {
+        "id": "Q3249257",
+        "name": "adult animation"
+    },
+    {
+        "id": "Q3634883",
+        "name": "supernatural film"
+    },
+    {
+        "id": "Q3677206",
+        "name": "Quinqui"
+    },
+    {
+        "id": "Q4774498",
+        "name": "anti-war film"
+    },
+    {
+        "id": "Q4925568",
+        "name": "blaxploitation horror film"
+    },
+    {
+        "id": "Q5578091",
+        "name": "Gokudō"
+    },
+    {
+        "id": "Q6942568",
+        "name": "musical short"
+    },
+    {
+        "id": "Q7097859",
+        "name": "operetta film"
+    },
+    {
+        "id": "Q3392969",
+        "name": "pocket film"
+    },
+    {
+        "id": "Q3677141",
+        "name": "Cinepanettone"
+    },
+    {
+        "id": "Q3745400",
+        "name": "comical film"
+    },
+    {
+        "id": "Q3772578",
+        "name": "home movie"
+    },
+    {
+        "id": "Q3868655",
+        "name": "musicarello"
+    },
+    {
+        "id": "Q4047254",
+        "name": "Pornochanchada"
+    },
+    {
+        "id": "Q4836991",
+        "name": "B western"
+    },
+    {
+        "id": "Q4875794",
+        "name": "beach party film"
+    },
+    {
+        "id": "Q5104880",
+        "name": "Chopsocky"
+    },
+    {
+        "id": "Q5258881",
+        "name": "werewolf film"
+    },
+    {
+        "id": "Q5739158",
+        "name": "heritage film"
+    },
+    {
+        "id": "Q5855976",
+        "name": "horror fantasy film"
+    },
+    {
+        "id": "Q5872891",
+        "name": "Hixploitation"
+    },
+    {
+        "id": "Q3327002",
+        "name": "medieval film"
+    },
+    {
+        "id": "Q4220915",
+        "name": "novella film"
+    },
+    {
+        "id": "Q4484381",
+        "name": "ballet film"
+    },
+    {
+        "id": "Q4840473",
+        "name": "bad girl movie"
+    },
+    {
+        "id": "Q5032666",
+        "name": "cannibal boom"
+    },
+    {
+        "id": "Q5449041",
+        "name": "film à clef"
+    },
+    {
+        "id": "Q5768328",
+        "name": "hippie exploitation film"
+    },
+    {
+        "id": "Q6432005",
+        "name": "korean melodrama"
+    },
+    {
+        "id": "Q6722594",
+        "name": "Euro War"
+    },
+    {
+        "id": "Q3338945",
+        "name": "New Extremity"
+    },
+    {
+        "id": "Q3745430",
+        "name": "satirical film or television program"
+    },
+    {
+        "id": "Q3482453",
+        "name": "shoshimin-eiga"
+    },
+    {
+        "id": "Q5969904",
+        "name": "Landismo"
+    },
+    {
+        "id": "Q3648909",
+        "name": "popular science film"
+    },
+    {
+        "id": "Q7116678",
+        "name": "Ozploitation film"
+    },
+    {
+        "id": "Q4674071",
+        "name": "acid Western"
+    },
+    {
+        "id": "Q6839362",
+        "name": "micro movie"
+    },
+    {
+        "id": "Q7449406",
+        "name": "semidocumentary"
+    },
+    {
+        "id": "Q7551149",
+        "name": "social guidance film"
+    },
+    {
+        "id": "Q7579035",
+        "name": "sponsored film"
+    },
+    {
+        "id": "Q10654943",
+        "name": "knight film"
+    },
+    {
+        "id": "Q12594828",
+        "name": "Manchurian Western"
+    },
+    {
+        "id": "Q12912091",
+        "name": "fiction film"
+    },
+    {
+        "id": "Q16249176",
+        "name": "Indian ghost movie"
+    },
+    {
+        "id": "Q16824564",
+        "name": "absolute film"
+    },
+    {
+        "id": "Q7207520",
+        "name": "poetry film"
+    },
+    {
+        "id": "Q7234396",
+        "name": "postmodernist film"
+    },
+    {
+        "id": "Q7841716",
+        "name": "trigger film"
+    },
+    {
+        "id": "Q19328734",
+        "name": "Yiddish cinema"
+    },
+    {
+        "id": "Q10663882",
+        "name": "science fiction horror film"
+    },
+    {
+        "id": "Q8564978",
+        "name": "found film"
+    },
+    {
+        "id": "Q20089346",
+        "name": "science fiction animation"
+    },
+    {
+        "id": "Q20442589",
+        "name": "LGBT-related film"
+    },
+    {
+        "id": "Q20656232",
+        "name": "science fiction action film"
+    },
+    {
+        "id": "Q21028464",
+        "name": "ecological documentary"
+    },
+    {
+        "id": "Q21858363",
+        "name": "psychedelic film"
+    },
+    {
+        "id": "Q22025254",
+        "name": "sageuk"
+    },
+    {
+        "id": "Q20650540",
+        "name": "anime film"
+    },
+    {
+        "id": "Q12549246",
+        "name": "kinojurnal"
+    },
+    {
+        "id": "Q13209138",
+        "name": "auteur film"
+    },
+    {
+        "id": "Q17175676",
+        "name": "animated cartoon"
+    },
+    {
+        "id": "Q24905792",
+        "name": "vansploitation"
+    },
+    {
+        "id": "Q15858553",
+        "name": "wuxia film"
+    },
+    {
+        "id": "Q7256286",
+        "name": "psycho-biddy"
+    },
+    {
+        "id": "Q18466840",
+        "name": "alternative cinema"
+    },
+    {
+        "id": "Q7832972",
+        "name": "training film"
+    },
+    {
+        "id": "Q20202970",
+        "name": "Jewish film"
+    },
+    {
+        "id": "Q21090266",
+        "name": "Cinepoetry"
+    },
+    {
+        "id": "Q21401869",
+        "name": "flashback film"
+    },
+    {
+        "id": "Q11356864",
+        "name": "essay film"
+    },
+    {
+        "id": "Q16549118",
+        "name": "social cinema"
+    },
+    {
+        "id": "Q7301269",
+        "name": "reality film"
+    },
+    {
+        "id": "Q7699576",
+        "name": "tendency film"
+    },
+    {
+        "id": "Q7717463",
+        "name": "Bible film"
+    },
+    {
+        "id": "Q18466908",
+        "name": "cinema marginal"
+    },
+    {
+        "id": "Q8812380",
+        "name": "pseudo-documentary"
+    },
+    {
+        "id": "Q20649407",
+        "name": "stag film"
+    },
+    {
+        "id": "Q19367312",
+        "name": "crime thriller"
+    },
+    {
+        "id": "Q15055012",
+        "name": "guerrilla filmmaking"
+    },
+    {
+        "id": "Q15804095",
+        "name": "culture clash comedy"
+    },
+    {
+        "id": "Q16247268",
+        "name": "Bollywood horror film"
+    },
+    {
+        "id": "Q16909344",
+        "name": "opera film"
+    },
+    {
+        "id": "Q17013749",
+        "name": "historical film"
+    },
+    {
+        "id": "Q7134948",
+        "name": "Parallel Cinema"
+    },
+    {
+        "id": "Q7210294",
+        "name": "political drama"
+    },
+    {
+        "id": "Q7379160",
+        "name": "Rumberas film"
+    },
+    {
+        "id": "Q7444356",
+        "name": "gangster film"
+    },
+    {
+        "id": "Q7568398",
+        "name": "South Seas"
+    },
+    {
+        "id": "Q7888483",
+        "name": "crush film"
+    },
+    {
+        "id": "Q9259727",
+        "name": "religious film"
+    },
+    {
+        "id": "Q20110507",
+        "name": "Sacred Defense cinema"
+    },
+    {
+        "id": "Q20443008",
+        "name": "dystopian film"
+    },
+    {
+        "id": "Q11304653",
+        "name": "suspense film"
+    },
+    {
+        "id": "Q15898171",
+        "name": "survival film"
+    },
+    {
+        "id": "Q16155323",
+        "name": "Industrial video"
+    },
+    {
+        "id": "Q7140445",
+        "name": "Participatory cinema"
+    },
+    {
+        "id": "Q7551315",
+        "name": "social problem film"
+    },
+    {
+        "id": "Q8030668",
+        "name": "woman's film"
+    },
+    {
+        "id": "Q20002651",
+        "name": "trick film"
+    },
+    {
+        "id": "Q11857634",
+        "name": "animal fantasy"
+    },
+    {
+        "id": "Q12049743",
+        "name": "romantic horror film"
+    },
+    {
+        "id": "Q22981906",
+        "name": "treasure hunt film"
+    },
+    {
+        "id": "Q13582267",
+        "name": "Draw My Life"
+    },
+    {
+        "id": "Q17112331",
+        "name": "slapstick film"
+    },
+    {
+        "id": "Q7542092",
+        "name": "slow cinema"
+    },
+    {
+        "id": "Q7551110",
+        "name": "social film"
+    },
+    {
+        "id": "Q7645884",
+        "name": "surf film"
+    },
+    {
+        "id": "Q18355406",
+        "name": "Satanic film"
+    },
+    {
+        "id": "Q8066387",
+        "name": "Zapata Western"
+    },
+    {
+        "id": "Q20656352",
+        "name": "alternate history film"
+    },
+    {
+        "id": "Q20732395",
+        "name": "mukbang"
+    },
+    {
+        "id": "Q11298267",
+        "name": "gambling film"
+    },
+    {
+        "id": "Q11859599",
+        "name": "Findie"
+    },
+    {
+        "id": "Q11894225",
+        "name": "military comedy film"
+    },
+    {
+        "id": "Q12076696",
+        "name": "agitfilm"
+    },
+    {
+        "id": "Q13422621",
+        "name": "Kannywood"
+    },
+    {
+        "id": "Q16965474",
+        "name": "highlight film"
+    },
+    {
+        "id": "Q17093751",
+        "name": "non-narrative film"
+    },
+    {
+        "id": "Q18430382",
+        "name": "moral drama"
+    },
+    {
+        "id": "Q18693630",
+        "name": "log floater film"
+    },
+    {
+        "id": "Q9259710",
+        "name": "documentary crime"
+    },
+    {
+        "id": "Q10280356",
+        "name": "favela movie"
+    },
+    {
+        "id": "Q10475300",
+        "name": "puppet film"
+    },
+    {
+        "id": "Q10631817",
+        "name": "pilsner film"
+    },
+    {
+        "id": "Q12410174",
+        "name": "student film"
+    },
+    {
+        "id": "Q22908155",
+        "name": "reaction video"
+    },
+    {
+        "id": "Q23056577",
+        "name": "military comedy"
+    },
+    {
+        "id": "Q18205362",
+        "name": "Auroratone"
+    },
+    {
+        "id": "Q18398246",
+        "name": "bromantic comedy"
+    },
+    {
+        "id": "Q10805364",
+        "name": "instant-noodles film"
+    },
+    {
+        "id": "Q11452875",
+        "name": "Jitsuroku eiga"
+    },
+    {
+        "id": "Q10604324",
+        "name": "New Wave in cinema"
+    },
+    {
+        "id": "Q16538713",
+        "name": "chase film"
+    },
+    {
+        "id": "Q16248323",
+        "name": "Erra cinema"
+    },
+    {
+        "id": "Q20791777",
+        "name": "tonbild film"
+    },
+    {
+        "id": "Q18450913",
+        "name": "high school film"
+    },
+    {
+        "id": "Q20970492",
+        "name": "car-chase film"
+    },
+    {
+        "id": "Q104902646",
+        "name": "folk horror film"
+    },
+    {
+        "id": "Q85632254",
+        "name": "animated film with LGBT character(s)"
+    },
+    {
+        "id": "Q65042946",
+        "name": "Neo-Baroque film"
+    },
+    {
+        "id": "Q108179271",
+        "name": "arthouse animation"
+    },
+    {
+        "id": "Q108202399",
+        "name": "cheerleading film"
+    },
+    {
+        "id": "Q108202384",
+        "name": "women's association football film"
+    },
+    {
+        "id": "Q109626272",
+        "name": "natural horror film"
+    },
+    {
+        "id": "Q109653402",
+        "name": "sex horror film"
+    },
+    {
+        "id": "Q78461348",
+        "name": "action-adventure film"
+    },
+    {
+        "id": "Q61060157",
+        "name": "Multi-protagonist film"
+    },
+    {
+        "id": "Q104559206",
+        "name": "biographical drama film"
+    },
+    {
+        "id": "Q107210977",
+        "name": "minimalist film"
+    },
+    {
+        "id": "Q107324856",
+        "name": "Modernist film"
+    },
+    {
+        "id": "Q66914288",
+        "name": "space adventure film"
+    },
+    {
+        "id": "Q109291096",
+        "name": "LGBT pornography"
+    },
+    {
+        "id": "Q109628222",
+        "name": "cosmic horror film"
+    },
+    {
+        "id": "Q63170185",
+        "name": "oddly satisfying video"
+    },
+    {
+        "id": "Q108202392",
+        "name": "women's sports film"
+    },
+    {
+        "id": "Q25230421",
+        "name": "Gothic romance film"
+    },
+    {
+        "id": "Q109622609",
+        "name": "filmed play"
+    },
+    {
+        "id": "Q28146524",
+        "name": "film based on actual events"
+    },
+    {
+        "id": "Q102429885",
+        "name": "coming-of-age film"
+    },
+    {
+        "id": "Q78528852",
+        "name": "neo-Western"
+    },
+    {
+        "id": "Q104097073",
+        "name": "transgender film"
+    },
+    {
+        "id": "Q104765957",
+        "name": "time-travel film"
+    },
+    {
+        "id": "Q31898054",
+        "name": "Nazi propaganda film"
+    },
+    {
+        "id": "Q107278078",
+        "name": "Realist film"
+    },
+    {
+        "id": "Q108466999",
+        "name": "comedy horror film"
+    },
+    {
+        "id": "Q109653474",
+        "name": "false snuff"
+    },
+    {
+        "id": "Q109733304",
+        "name": "psychological thriller film"
+    },
+    {
+        "id": "Q25533274",
+        "name": "detective film"
+    },
+    {
+        "id": "Q102706436",
+        "name": "magic realist film"
+    },
+    {
+        "id": "Q105320349",
+        "name": "gay-related film"
+    },
+    {
+        "id": "Q106611060",
+        "name": "Chicano cinema"
+    },
+    {
+        "id": "Q96405489",
+        "name": "sharksploitation"
+    },
+    {
+        "id": "Q109653422",
+        "name": "costume horror film"
+    },
+    {
+        "id": "Q109653432",
+        "name": "haunted house film"
+    },
+    {
+        "id": "Q45893900",
+        "name": "deaf cinema"
+    },
+    {
+        "id": "Q102260466",
+        "name": "body horror film"
+    },
+    {
+        "id": "Q103888910",
+        "name": "intersex film"
+    },
+    {
+        "id": "Q104851179",
+        "name": "Narco pelicula"
+    },
+    {
+        "id": "Q108258724",
+        "name": "bandy film"
+    },
+    {
+        "id": "Q43911809",
+        "name": "supernatural horror film"
+    },
+    {
+        "id": "Q100376753",
+        "name": "my daily routine"
+    },
+    {
+        "id": "Q109629396",
+        "name": "psychological horror film"
+    },
+    {
+        "id": "Q31888058",
+        "name": "ghost film"
+    },
+    {
+        "id": "Q109733333",
+        "name": "political thriller film"
+    },
+    {
+        "id": "Q26268098",
+        "name": "Ostern"
+    },
+    {
+        "id": "Q28134532",
+        "name": "Economics film"
+    },
+    {
+        "id": "Q29226975",
+        "name": "film performance"
+    },
+    {
+        "id": "Q65088741",
+        "name": "skate video"
+    },
+    {
+        "id": "Q66425231",
+        "name": "Redsploitation"
+    },
+    {
+        "id": "Q48816645",
+        "name": "Black film"
+    },
+    {
+        "id": "Q33130924",
+        "name": "mafia film"
+    },
+    {
+        "id": "Q52207310",
+        "name": "film based on books"
+    },
+    {
+        "id": "Q52207399",
+        "name": "film based on a novel"
+    },
+    {
+        "id": "Q25110269",
+        "name": "live-action animated film"
+    },
+    {
+        "id": "Q48773471",
+        "name": "video essay"
+    },
+    {
+        "id": "Q81552104",
+        "name": "Chakma cinema"
+    },
+    {
+        "id": "Q60630702",
+        "name": "ASMRotica"
+    },
+    {
+        "id": "Q82721965",
+        "name": "Chakwood"
+    },
+    {
+        "id": "Q31086090",
+        "name": "Barbarian film"
+    },
+    {
+        "id": "Q63214877",
+        "name": "psychological drama film"
+    },
+    {
+        "id": "Q56240556",
+        "name": "amusement ride film"
+    },
+    {
+        "id": "Q25636204",
+        "name": "Haredi cinema"
+    },
+    {
+        "id": "Q65224847",
+        "name": "family drama film"
+    },
+    {
+        "id": "Q28026639",
+        "name": "Christmas film"
+    },
+    {
+        "id": "Q28164087",
+        "name": "Jollywood"
+    },
+    {
+        "id": "Q38608778",
+        "name": "social thriller film"
+    },
+    {
+        "id": "Q30897106",
+        "name": "phantasmagoria"
+    },
+    {
+        "id": "Q30897819",
+        "name": "melt movie"
+    },
+    {
+        "id": "Q83646243",
+        "name": "western animation"
+    },
+    {
+        "id": "Q31836066",
+        "name": "film portrait"
+    },
+    {
+        "id": "Q95440291",
+        "name": "fantasy comedy film"
+    },
+    {
+        "id": "Q63860397",
+        "name": "steampunk film"
+    },
+    {
+        "id": "Q95952108",
+        "name": "social comedy film"
+    },
+    {
+        "id": "Q24960157",
+        "name": "non-fiction film"
+    },
+    {
+        "id": "Q56345535",
+        "name": "Trio Western"
+    },
+    {
+        "id": "Q67414381",
+        "name": "donghua feature film"
+    },
+    {
+        "id": "Q47009776",
+        "name": "apocalyptic film"
+    },
+    {
+        "id": "Q101247855",
+        "name": "Just Chatting"
+    },
+    {
+        "id": "Q104880835",
+        "name": "promotional film"
+    },
+    {
+        "id": "Q52162262",
+        "name": "film based on literature"
+    },
+    {
+        "id": "Q106117184",
+        "name": "gongbang"
+    },
+    {
+        "id": "Q107022805",
+        "name": "circus film"
+    },
+    {
+        "id": "Q34848596",
+        "name": "neon noir"
+    },
+    {
+        "id": "Q108084492",
+        "name": "arthouse science fiction film"
+    },
+    {
+        "id": "Q97191621",
+        "name": "art horror"
+    },
+    {
+        "id": "Q25212003",
+        "name": "one-shot film"
+    },
+    {
+        "id": "Q109628205",
+        "name": "found footage horror"
+    },
+    {
+        "id": "Q77906388",
+        "name": "Hanukkah film"
+    },
+    {
+        "id": "Q109733294",
+        "name": "erotic thriller film"
+    },
+    {
+        "id": "Q102141681",
+        "name": "gay and lesbian film"
+    },
+    {
+        "id": "Q31884194",
+        "name": "socken film"
+    },
+    {
+        "id": "Q103925569",
+        "name": "science fiction anime"
+    },
+    {
+        "id": "Q64705787",
+        "name": "spacesuit film"
+    },
+    {
+        "id": "Q107210978",
+        "name": "maximalist film"
+    },
+    {
+        "id": "Q108212954",
+        "name": "ice hockey film"
+    },
+    {
+        "id": "Q56296585",
+        "name": "comedy of error"
+    },
+    {
+        "id": "Q60753838",
+        "name": "screenlife"
+    },
+    {
+        "id": "Q116255614",
+        "name": "horror anthology film"
+    },
+    {
+        "id": "Q116456830",
+        "name": "erotic drama film"
+    },
+    {
+        "id": "Q121742706",
+        "name": "short documentary film"
+    },
+    {
+        "id": "Q110593123",
+        "name": "music documentary film"
+    },
+    {
+        "id": "Q110876331",
+        "name": "Lesbian-related film"
+    },
+    {
+        "id": "Q111147075",
+        "name": "agitpropfilm"
+    },
+    {
+        "id": "Q111700305",
+        "name": "bushranging film"
+    },
+    {
+        "id": "Q114051112",
+        "name": "POV pornographic film"
+    },
+    {
+        "id": "Q114729802",
+        "name": "Welsh noir film"
+    },
+    {
+        "id": "Q116394292",
+        "name": "Southern Gothic film"
+    },
+    {
+        "id": "Q116495722",
+        "name": "techno-horror film"
+    },
+    {
+        "id": "Q109733630",
+        "name": "police procedural film"
+    },
+    {
+        "id": "Q112633637",
+        "name": "environmental film"
+    },
+    {
+        "id": "Q112841248",
+        "name": "Recreative movie"
+    },
+    {
+        "id": "Q113485322",
+        "name": "crime drama film"
+    },
+    {
+        "id": "Q114413232",
+        "name": "gothic horror film"
+    },
+    {
+        "id": "Q116375520",
+        "name": "horror of Armageddon"
+    },
+    {
+        "id": "Q116456802",
+        "name": "war drama"
+    },
+    {
+        "id": "Q116495775",
+        "name": "digital horror film"
+    },
+    {
+        "id": "Q109733760",
+        "name": "virtual reality film"
+    },
+    {
+        "id": "Q116497340",
+        "name": "Nordic noir film"
+    },
+    {
+        "id": "Q116514801",
+        "name": "historical drama film"
+    },
+    {
+        "id": "Q112886212",
+        "name": "diary film"
+    },
+    {
+        "id": "Q112110143",
+        "name": "marionette film"
+    },
+    {
+        "id": "Q114863724",
+        "name": "moral film"
+    },
+    {
+        "id": "Q117104066",
+        "name": "Expanded Cinema"
+    },
+    {
+        "id": "Q109733358",
+        "name": "music-themed film"
+    },
+    {
+        "id": "Q111280422",
+        "name": "triathlon films"
+    },
+    {
+        "id": "Q111306560",
+        "name": "eskrima film"
+    },
+    {
+        "id": "Q110593120",
+        "name": "holiday film"
+    },
+    {
+        "id": "Q110593119",
+        "name": "urban film"
+    },
+    {
+        "id": "Q110593102",
+        "name": "classic film"
+    },
+    {
+        "id": "Q115122793",
+        "name": "Christian film"
+    },
+    {
+        "id": "Q111279477",
+        "name": "athletics film"
+    },
+    {
+        "id": "Q116512806",
+        "name": "historical documentary film"
+    },
+    {
+        "id": "Q116513497",
+        "name": "period film"
+    },
+    {
+        "id": "Q116680132",
+        "name": "whodunit film"
+    },
+    {
+        "id": "Q116680333",
+        "name": "absurdist comedy film"
+    },
+    {
+        "id": "Q116680334",
+        "name": "alien invasion film"
+    },
+    {
+        "id": "Q116680383",
+        "name": "Northern film"
+    },
+    {
+        "id": "Q116763393",
+        "name": "animals documentary"
+    },
+    {
+        "id": "Q116771780",
+        "name": "Sauerkraut Western"
+    },
+    {
+        "id": "Q116771781",
+        "name": "Eurowestern"
+    },
+    {
+        "id": "Q116771790",
+        "name": "Paella Western"
+    },
+    {
+        "id": "Q116771830",
+        "name": "Goulash Western"
+    },
+    {
+        "id": "Q116777134",
+        "name": "environmental documentary"
+    },
+    {
+        "id": "Q116777250",
+        "name": "science documentary"
+    },
+    {
+        "id": "Q116778237",
+        "name": "tech-noir film"
+    },
+    {
+        "id": "Q116778896",
+        "name": "epidemic film"
+    },
+    {
+        "id": "Q116778904",
+        "name": "J-Splatter"
+    },
+    {
+        "id": "Q116784125",
+        "name": "matatabi eiga"
+    },
+    {
+        "id": "Q116784134",
+        "name": "ninkyo eiga"
+    },
+    {
+        "id": "Q116784146",
+        "name": "kaidan eiga"
+    },
+    {
+        "id": "Q116784175",
+        "name": "yokai eiga"
+    },
+    {
+        "id": "Q116790751",
+        "name": "film derivated from manga"
+    },
+    {
+        "id": "Q116795611",
+        "name": "schlockumentary"
+    },
+    {
+        "id": "Q116918819",
+        "name": "Halloween film"
+    },
+    {
+        "id": "Q112913148",
+        "name": "postmodern horror film"
+    },
+    {
+        "id": "Q117536422",
+        "name": "romantic drama film"
+    },
+    {
+        "id": "Q118612349",
+        "name": "romantic comedy film"
+    },
+    {
+        "id": "Q118754869",
+        "name": "actual play film"
+    },
+    {
+        "id": "Q120205248",
+        "name": "Comedia picaresca"
+    },
+    {
+        "id": "Q121390245",
+        "name": "legal film"
+    },
+    {
+        "id": "Q121432339",
+        "name": "huis-clos film"
+    },
+    {
+        "id": "Q121555337",
+        "name": "variety film"
+    },
+    {
+        "id": "Q121826718",
+        "name": "apology video"
+    },
+    {
+        "id": "Q122150116",
+        "name": "military film"
+    },
+    {
+        "id": "Q122360343",
+        "name": "psychological film"
+    },
+    {
+        "id": "Q122813146",
+        "name": "novellefilm"
+    },
+    {
+        "id": "Q123851043",
+        "name": "LGBTQ+ porn films"
+    },
+    {
+        "id": "Q124325318",
+        "name": "cleaning video"
+    },
+    {
+        "id": "Q111278985",
+        "name": "American football film"
+    },
+    {
+        "id": "Q112632562",
+        "name": "film essay"
+    },
+    {
+        "id": "Q114079176",
+        "name": "bisexual film"
+    },
+    {
+        "id": "Q116378096",
+        "name": "mumblegore"
+    },
+    {
+        "id": "Q116478741",
+        "name": "film about theatre"
+    },
+    {
+        "id": "Q109733685",
+        "name": "space exploration film"
+    },
+    {
+        "id": "Q110593114",
+        "name": "Special Interest"
+    },
+    {
+        "id": "Q111953147",
+        "name": "recitation film"
+    },
+    {
+        "id": "Q113930130",
+        "name": "biographical sports film"
+    }
+]
